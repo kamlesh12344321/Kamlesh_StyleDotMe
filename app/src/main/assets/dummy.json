@@ -1,0 +1,45 @@
+{
+  "employee" : [
+    {
+      "band" : "A",
+      "name" : "Clayten Rorario",
+      "profile" : "Team Leader",
+      "taskCount" : "4",
+      "taskPercentage" : "10",
+      "userIconUrl" : "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-471305826-1532370950.jpg?crop=1.00xw:0.753xh;0,0.0709xh&resize=98:*"
+    },
+    {
+      "band" : "C",
+      "name" : "Mendel Blomburg",
+      "profile" : "Member",
+      "taskCount" : "0",
+      "taskPercentage" : "0",
+      "userIconUrl" : "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-631349160-1532365278.jpg?crop=1xw:1xh;center,top&resize=98:*"
+    },
+    {
+      "band" : "C",
+      "name" : "Jin Yang Fong",
+      "profile" : "Member",
+      "taskCount" : "1",
+      "taskPercentage" : "0",
+      "userIconUrl" : "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-543001046-1532368328.jpg?crop=1xw:1xh;center,top&resize=100:*"
+    },
+    {
+      "band" : "B",
+      "name" : "Lisa Morancie",
+      "profile" : "Modaretor",
+      "taskCount" : "4",
+      "taskPercentage" : "52",
+      "userIconUrl" : "https://scstylecaster.files.wordpress.com/2016/05/reese-witherspoon-blonde-hp.jpg?w=100&h=100&crop=1"
+    },
+    {
+      "band" : "C",
+      "name" : "Adam Christopher",
+      "profile" : "Member",
+      "taskCount" : "0",
+      "taskPercentage" : "0",
+      "userIconUrl" : "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-894549090-1532368957.jpg?crop=1xw:1xh;center,top&resize=100:*"
+    }
+
+  ]
+}

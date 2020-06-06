@@ -1,0 +1,45 @@
+{
+  "employee" : [
+    {
+      "band" : "A",
+      "name" : "Clayten Rorario",
+      "userIconUrl" : "",
+      "profile" : "Team Leader",
+      "taskCount" : "4",
+      "taskPercentage" : "10"
+    },
+    {
+      "band" : "C",
+      "name" : "Mendel Blomburg",
+      "userIconUrl" : "",
+      "profile" : "Member",
+      "taskCount" : "0",
+      "taskPercentage" : "0"
+    },
+    {
+      "band" : "C",
+      "name" : "Jin Yang Fong",
+      "userIconUrl" : "",
+      "profile" : "Member",
+      "taskCount" : "1",
+      "taskPercentage" : "0"
+    },
+    {
+      "band" : "B",
+      "name" : "Lisa Morancie",
+      "userIconUrl" : "",
+      "profile" : "Modaretor",
+      "taskCount" : "4",
+      "taskPercentage" : "52"
+    },
+    {
+      "band" : "C",
+      "name" : "Adam Christopher",
+      "userIconUrl" : "",
+      "profile" : "Member",
+      "taskCount" : "0",
+      "taskPercentage" : "0"
+    }
+
+  ]
+}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="screen_padding_start">15dp</dimen>
+    <dimen name="screen_padding_end">15dp</dimen>
+    <dimen name="screen_padding_top">15dp</dimen>
+    <dimen name="screen_padding_bottom">15dp</dimen>
+
+    <dimen name="item_dot_width_height">7dp</dimen>
+    <dimen name="item_name_text_size">15sp</dimen>
+    <dimen name="item_tag_text_size">12sp</dimen>
+    <dimen name="item_user_icon_width_height">65dp</dimen>
+    <dimen name="item_user_icon_margin_start">15dp</dimen>
+    <dimen name="item_margin_bottom">25dp</dimen>
+    <dimen name="item_content_padding_top">8dp</dimen>
+    <dimen name="item_content_padding_start">8dp</dimen>
+    <dimen name="item_content_padding_end">16dp</dimen>
+    <dimen name="item_content_padding_bottom">6dp</dimen>
+    <dimen name="item_content_radius">8dp</dimen>
+
+    <dimen name="add_member_white_dot_width_height">30dp</dimen>
+    <dimen name="add_member_text_size">20sp</dimen>
+    <dimen name="added_member_text_size">14sp</dimen>
+    <dimen name="add_member_plus_text_size">28sp</dimen>
+    <dimen name="add_member_circle_width_height">55dp</dimen>
+    <dimen name="add_member_parent_height">85dp</dimen>
+    <dimen name="add_member_parent_margin">15dp</dimen>
+    <dimen name="add_member_radius">20dp</dimen>
+
+    <dimen name="toolbar_margin_top">10sp</dimen>
+    <dimen name="toolbar_margin_bottom">15sp</dimen>
+    <dimen name="toolbar_title_size">22sp</dimen>
+    <dimen name="toolbar_subtitle_size">16sp</dimen>
+    <dimen name="toolbar_subtitle_margin_top">8dp</dimen>
+
+
+    <dimen name="drawable_padding_top">2dp</dimen>
+    <dimen name="drawable_padding_start">10dp</dimen>
+    <dimen name="drawable_padding_end">10dp</dimen>
+    <dimen name="drawable_padding_bottom">3dp</dimen>
+    <dimen name="item_content_verticle_dots_height">25dp</dimen>
+
+
+</resources>

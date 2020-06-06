@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="defaultWindowColor">#ffffff</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="blue">#487eff</color>
+    <color name="task_title_color">#73787e</color>
+    <color name="white_color">#ffffff</color>
+    <color name="gray_dark">#b2b5b8</color>
+    <color name="title_color">#000000</color>
+    <color name="subtitle_color">#b2b5b8</color>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kamlesh_Task</string>
+    <string name="title_str">Task Members</string>
+    <string name="sub_title_str">Science fair 2020/ Team Alpha</string>
+    <string name="add_team_member">Add Team Member</string>
+    <string name="_5_out_of_10_members_added">5 out of 10 members added</string>
+    <string name="plus">+</string>
+</resources>
