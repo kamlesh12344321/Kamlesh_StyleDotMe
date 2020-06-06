@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         ft.add(R.id.employeeFragmentContainer, EmployeeTaskFragment.getInstance());
         ft.commit();
 
-        //EmployeeUtil.doColorSpanForSecondString(this, "Task ", "Members", title_txt, R.color.title_color);
+        EmployeeUtil.doColorSpanForSecondString(this, "Task ", "Members", title_txt, R.color.title_color);
         EmployeeUtil.doColorSpanForFirstString(this, "Science Fair 2020 / ", "Team Alpha", subtitle_txt, R.color.subtitle_color);
 
 
